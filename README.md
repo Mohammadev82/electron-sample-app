@@ -1,4 +1,4 @@
-## electron-sample-app
+## electron sample app
 this is a project created in electron framework.
 
 ## run app
