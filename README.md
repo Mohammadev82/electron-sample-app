@@ -5,3 +5,6 @@ this is a project created in electron framework.
 ```
 npm install --save-dev electron
 ```
+```
+npm start
+```
